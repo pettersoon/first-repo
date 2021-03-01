@@ -1,6 +1,12 @@
 A
-Abacaxi
+2-Abacaxi
+
+B
+1-Banana
+
+C
+5-Carambola
 
 P
-Pera
+2-Pera
 
